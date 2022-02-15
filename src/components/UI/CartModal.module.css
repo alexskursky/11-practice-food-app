@@ -1,0 +1,17 @@
+.modal_background {
+    height: 100vh;
+    background-color: #000000a1;
+    width: 100vw;
+    position: fixed;
+}
+
+.modal_window {
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+    width: 70vw;
+    height: 50vh;
+    position: absolute;
+    margin-top: 10vh;
+    margin-left: 15vw;
+}

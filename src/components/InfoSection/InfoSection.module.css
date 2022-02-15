@@ -1,0 +1,15 @@
+.info_section {
+    display: flex;
+    background-image: url('back-info.jpg');
+    height: 50vh;
+}
+
+.sector {
+    margin: auto;
+    background-color: #2f2e2e;
+    border-radius: 10px;
+    width: 320px;
+    height: 140px;
+    max-width: 30rem;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}

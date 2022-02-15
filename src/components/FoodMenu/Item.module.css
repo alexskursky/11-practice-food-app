@@ -1,0 +1,48 @@
+.name {
+  color: brown;
+  font-weight: 700;
+}
+
+.description {
+  font-size: 12px;
+  font-style: italic;
+}
+
+.price {
+  font-weight: 900;
+  color: red;
+}
+
+.addtocart input {
+  margin-left: 10px;
+  width: 30px;
+}
+
+.item li {
+    text-align: left;
+  margin-top: 10px;
+  list-style: none;
+}
+
+.addtocart {
+  text-align: center;
+  padding: 0 10px 0 10px;
+}
+
+.foodmenu_section {
+    text-align: left;
+  }
+  
+  .menu_items {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    color: #000;
+    margin: 10px auto;
+    background-color: white;
+    border-radius: 10px;
+    width: 50rem;
+    border-bottom: 1px solid #000;
+  }
+  
+  
